@@ -6,7 +6,7 @@ You can play this game on your Android smartphone! Clone this repo and download 
 
 ## Getting Started
 
-If you have the Unity3D editor installed on your computer (versions 5, 2017, 2018, or 2019), then you can run the MainScene.unity file on your own machine. Download the latest version of Unity [here](https://unity.com/releases/2019-2)
+If you have the Unity3D editor installed on your computer (versions 5, 2017, 2018, or 2019), then you can run the MainScene.unity file on your own machine. Download the latest version of Unity from the official website [here](https://unity.com/releases/2019-2).
 
 ## Notes
 
@@ -16,7 +16,7 @@ The .meta files aren't interesting to look at, but are necessary to run the game
 
 ## Permissions
 
-All the assets and game scripts here were developed by me.This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+All the assets and game scripts here were developed by me. This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
