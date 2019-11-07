@@ -16,7 +16,7 @@ The .meta files aren't interesting to look at, but are necessary to run the game
 
 ## Permissions
 
-All the assets and game scripts here were developed by me; everything is licensed under the MIT License.
+All the assets and game scripts here were developed by me.This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Author
 
