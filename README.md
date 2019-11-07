@@ -11,7 +11,9 @@ If you have the Unity3D editor installed on your computer (versions 5, 2017, 201
 
 ## Notes
 
-You'll need the version of Google VR included in this project to ensure; after the deprecation of GVR by Google, newer versions you find may not work very well
+You'll need the version of Google VR included in this project to ensure; after the deprecation of GVR by Google, newer versions you find may not work very well.
+
+The .meta files aren't interesting to look at, but are necessary to run the game in the Unity editor.
 
 ## Permissions
 
