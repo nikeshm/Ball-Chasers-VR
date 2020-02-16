@@ -1,6 +1,6 @@
 # Ball Chasers VR
 
-A simple VR game that utilizes Dr. Eelke Folmer's VR-STEP algorithm for accurate locomotion tracking in mobile VR without need for IR cameras. Developed at the UNR VR Lab.
+A simple VR game that utilizes Dr. Eelke Folmer's VR-STEP algorithm for accurate locomotion tracking in mobile VR without need for IR cameras. Developed at the University of Nevada, Reno.
 
 You can play this game on your Android smartphone! Clone this repo and download it on your computer as an Android APK. Stick your phone in a VR headset and go for the highest score!
 
