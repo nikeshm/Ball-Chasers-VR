@@ -6,7 +6,7 @@ You can play this game on your Android smartphone! Clone this repo and download 
 
 ## Getting Started
 
-If you have the Unity3D editor installed on your computer (versions 5, 2017, 2018, or 2019), then you can run the MainScene.unity file on your own machine. Download the latest version of Unity from the official website [here](https://unity.com/releases/2019-2).
+If you have the Unity3D editor installed on your computer (versions 5, 2017, 2018, or 2019), then you can run the Main Scene.unity file on your own machine. Download the latest version of Unity from the official website [here](https://unity.com/releases/2019-2).
 
 ## Notes
 
