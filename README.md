@@ -1,4 +1,4 @@
-# Ball Chasers VR
+# Coin Run VR
 
 A simple VR game that utilizes Dr. Eelke Folmer's VR-STEP algorithm for accurate locomotion tracking in mobile VR without need for IR cameras. Developed at the University of Nevada, Reno.
 
